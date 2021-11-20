@@ -1,8 +1,12 @@
-/*  ejercicio.js
-    Ejercicios Arrays JS 1 | Ejercicio 2
-    Autor: Rubén Torres Gutiérrez <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
-    Licencia: GPL v3 o superior
-    Año: 2021
+/**
+*   @file ejercicio2
+*   @description Escribir un programa que lea 10 notas de alumnos y nos informe cuántos tienen notas mayores o iguales a 7 y cuántos menores.
+*   @version 1.0.0
+*   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
+*   @license GPL-3.0-or-later
+*   Ref: https://spdx.org/licenses/
+*
+*   Ref JSDoc: https://jsdoc.app/
 */
 
 //Importaciones

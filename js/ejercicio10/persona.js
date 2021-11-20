@@ -1,5 +1,5 @@
 /**
-*   @file persona | ejercicio3
+*   @file persona | ejercicio10
 *   @description Clase Persona
 *   @version 1.0.0
 *   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
@@ -8,9 +8,16 @@
 *
 *   Ref JSDoc: https://jsdoc.app/
 */
+'use strict'
 
 export class Persona{
-    constructor(){
-        this.altura;
+
+    constructor(numDocumento, edad, sexo){
+
+        this.numDocumento = numDocumento;
+        this.edad = edad;
+        this.sexo = sexo;
+
     }
+
 }

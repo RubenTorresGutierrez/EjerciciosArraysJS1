@@ -1,8 +1,16 @@
-/*  ejercicio.js
-    Ejercicios Arrays JS 1 | Ejercicio 7
-    Autor: Rubén Torres Gutiérrez <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
-    Licencia: GPL v3 o superior
-    Año: 2021
+/**
+*   @file ejercicio7
+*   @description Realizar un programa que permita cargar dos listas de 3 valores cada una.
+*   Informar con un mensaje cual de las dos listas tiene un valor acumulado mayor
+*   (mensajes 'Lista 1 mayor', 'Lista 2 mayor', 'Listas iguales')
+*   Tener en cuenta que puede haber dos o más estructuras repetitivas en un
+*   algoritmo.
+*   @version 1.0.0
+*   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
+*   @license GPL-3.0-or-later
+*   Ref: https://spdx.org/licenses/
+*
+*   Ref JSDoc: https://jsdoc.app/
 */
 'use strict'
 

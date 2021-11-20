@@ -1,8 +1,16 @@
-/*  ejercicio.js
-    Ejercicios Arrays JS 1 | Ejercicio 6
-    Autor: Rubén Torres Gutiérrez <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
-    Licencia: GPL v3 o superior
-    Año: 2021
+/**
+*   @file ejercicio6
+*   @description En una empresa trabajan 5 empleados cuyos sueldos oscilan entre $100 y $500,
+*   realizar un programa que lea los sueldos que cobra cada empleado e informe
+*   cuántos empleados cobran entre $100 y $300 y cuántos cobran más de $300.
+*   Además el programa deberá informar el importe que gasta la empresa en sueldos
+*   al personal.
+*   @version 1.0.0
+*   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
+*   @license GPL-3.0-or-later
+*   Ref: https://spdx.org/licenses/
+*
+*   Ref JSDoc: https://jsdoc.app/
 */
 
 import {Empleado} from './empleado.js';

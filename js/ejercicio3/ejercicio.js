@@ -1,8 +1,12 @@
-/*  ejercicio.js
-    Ejercicios Arrays JS 1 | Ejercicio 3
-    Autor: Rubén Torres Gutiérrez <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
-    Licencia: GPL v3 o superior
-    Año: 2021
+/**
+*   @file ejercicio3
+*   @description Se ingresan un conjunto de 5 alturas de personas por teclado. Mostrar la altura promedio de las personas.
+*   @version 1.0.0
+*   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
+*   @license GPL-3.0-or-later
+*   Ref: https://spdx.org/licenses/
+*
+*   Ref JSDoc: https://jsdoc.app/
 */
 
 //Importaciones

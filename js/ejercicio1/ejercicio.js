@@ -1,8 +1,12 @@
-/*  ejercicio.js
-    Ejercicios Arrays JS 1 | Ejercicio 1
-    Autor: Rubén Torres Gutiérrez <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
-    Licencia: GPL v3 o superior
-    Año: 2021
+/**
+*   @file ejercicio1
+*   @description Desarrollar un programa que solicite la carga de 10 números e imprima la suma de los últimos 5 valores ingresados.
+*   @version 1.0.0
+*   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
+*   @license GPL-3.0-or-later
+*   Ref: https://spdx.org/licenses/
+*
+*   Ref JSDoc: https://jsdoc.app/
 */
 'use strict'
 

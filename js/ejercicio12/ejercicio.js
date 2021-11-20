@@ -1,8 +1,20 @@
-/*  ejercicio.js
-    Ejercicios Arrays JS 1 | Ejercicio 12
-    Autor: Rubén Torres Gutiérrez <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
-    Licencia: GPL v3 o superior
-    Año: 2021
+/**
+*   @file ejercicio12
+*   @description Se cuenta con la siguiente información:
+*   Las edades de 5 estudiantes del turno mañana.
+*   Las edades de 6 estudiantes del turno tarde.
+*   Las edades de 11 estudiantes del turno noche.
+*   
+*   Las edades de cada estudiante deben ingresarse por teclado.
+*       a) Obtener el promedio de las edades de cada turno (tres promedios).
+*       b) Imprimir dichos promedios (promedio de cada turno).
+*       c) Mostrar por pantalla un mensaje que indique cual de los tres turnos tiene un promedio de edades mayor.
+*   @version 1.0.0
+*   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
+*   @license GPL-3.0-or-later
+*   Ref: https://spdx.org/licenses/
+*
+*   Ref JSDoc: https://jsdoc.app/
 */
 
 import { Turno } from "./turno.js";

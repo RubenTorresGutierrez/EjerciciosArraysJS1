@@ -1,8 +1,12 @@
-/*  turno.js
-    Ejercicios Arrays JS 1 | Ejercicio 12
-    Autor: Rubén Torres Gutiérrez <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
-    Licencia: GPL v3 o superior
-    Año: 2021
+/**
+*   @file turno | ejercicio12
+*   @description Clase Turno
+*   @version 1.0.0
+*   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
+*   @license GPL-3.0-or-later
+*   Ref: https://spdx.org/licenses/
+*
+*   Ref JSDoc: https://jsdoc.app/
 */
 
 import { Estudiante } from "./estudiante.js";

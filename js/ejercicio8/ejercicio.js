@@ -1,8 +1,17 @@
-/*  ejercicio.js
-    Ejercicios Arrays JS 1 | Ejercicio 8
-    Autor: Rubén Torres Gutiérrez <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
-    Licencia: GPL v3 o superior
-    Año: 2021
+/**
+*   @file ejercicio8
+*   @description Desarrollar un programa que permita cargar 5 números enteros y luego nos
+*   informe cuántos valores fueron pares y cuántos impares.
+*   Emplear el operador "%" en la condición de la estructura condicional.
+*   if (valor%2==0)
+*   El operador "%" retorna el resto de la división valor / 2. Por ejemplo: 12 % 2, retorna 0;
+*   13 % 2, retorna 1, porque el resto de dividir 13 en 2 es 1.
+*   @version 1.0.0
+*   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
+*   @license GPL-3.0-or-later
+*   Ref: https://spdx.org/licenses/
+*
+*   Ref JSDoc: https://jsdoc.app/
 */
 'use strict'
 
